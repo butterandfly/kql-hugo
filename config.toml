@@ -19,7 +19,7 @@ url = "https://twitter.com/KONG9QING6LUO"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/butterandfly"
+url = "https://github.com/butterandfly/kql-hugo"
 
 [markup.goldmark.renderer]
 hardWraps = false
