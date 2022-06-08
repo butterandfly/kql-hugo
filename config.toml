@@ -1,0 +1,25 @@
+baseURL = 'https://kql.ink'
+languageCode = 'en-us'
+title = "KQL"
+theme = 'PaperMod'
+staticDir = ['static']
+
+[params]
+favicon = "favicon.ico"
+
+[params.homeInfoParams]
+Title = "Welcome to Kongqing's Lab 👩‍🔬"
+Content = '''
+Have fun here 🥳
+'''
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/KONG9QING6LUO"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/butterandfly"
+
+[markup.goldmark.renderer]
+hardWraps = false
